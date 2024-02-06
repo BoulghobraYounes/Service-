@@ -22,6 +22,7 @@
             </intent-filter>
         </activity>
         <service android:name=".CounterIntentService"/>
+        <service android:name=".MyService"/>
     </application>
 
 </manifest>
